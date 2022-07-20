@@ -1,0 +1,77 @@
+@media screen and (max-width:1000px) {
+    .para {
+        padding: 2rem 3rem 5rem 4rem;
+    }
+
+    .section-3 {
+        display: inline-block;
+    }
+
+    .p1-text {
+        padding-bottom: 0rem;
+    }
+
+    .p-bt {
+        padding-top: 0rem;
+    }
+}
+
+@media screen and (max-width:600px) and (min-width:301px) {
+    .main-head {
+        font-size: 2.5em;
+    }
+
+    .mid-head {
+        font-size: larger;
+    }
+
+    .para {
+        font-size: large;
+    }
+
+    .con {
+        font-size: 2em;
+    }
+
+    .wrap {
+        margin: 0% 10% 0% 10%;
+        padding: 5%;
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .main-head {
+        font-size: 2.5em;
+    }
+
+    .mid-head {
+        font-size: medium;
+    }
+
+    .aloha {
+        font-size: x-large;
+    }
+
+    .para {
+        font-size: medium;
+    }
+
+    .con {
+        font-size: x-large;
+    }
+
+    .gal-head {
+        font-size: xx-large;
+    }
+
+    .wrap {
+        margin: 0% 10% 0% 10%;
+        padding: 5%;
+        width: 80%;
+    }
+
+    .section-5 {
+        font-size: smaller;
+    }
+}

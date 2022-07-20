@@ -1,0 +1,171 @@
+body {
+    font-family: 'Cinzel', serif;
+}
+
+nav {
+    background-color: #3BACB6;
+    background-image: -webkit-linear-gradient(top, #3BACB6, #B3E8E5);
+    background-image: -moz-linear-gradient(top, #3BACB6, #B3E8E5);
+    background-image: -ms-linear-gradient(top, #3BACB6, #B3E8E5);
+    background-image: -o-linear-gradient(top, #3BACB6, #B3E8E5);
+    background-image: linear-gradient(to bottom, #3BACB6, #B3E8E5);
+}
+
+main {
+    color: #ffffff;
+}
+
+.head {
+    font-weight: bolder;
+}
+
+.nav-com:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.section-1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/images/claudio-schwarz-k89cvE4zY2A-unsplash.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec-des {
+    display: flex;
+    justify-content: center;
+}
+
+.head-text {
+    font-family: 'Dancing Script', cursive;
+}
+
+.main-head {
+    font-size: 4.5em;
+    padding-top: 13rem;
+}
+
+.mid-head {
+    font-size: xx-large;
+    font-stretch: expanded;
+    line-height: 2;
+}
+
+.btns {
+    background: #C4DFAA;
+    background-image: -webkit-linear-gradient(top, #C4DFAA, #73A9AD);
+    background-image: -moz-linear-gradient(top, #C4DFAA, #73A9AD);
+    background-image: -ms-linear-gradient(top, #C4DFAA, #73A9AD);
+    background-image: -o-linear-gradient(top, #C4DFAA, #73A9AD);
+    background-image: linear-gradient(to bottom, #C4DFAA, #73A9AD);
+    -webkit-border-radius: 38;
+    -moz-border-radius: 38;
+    border-radius: 38px;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btns:hover {
+    background: #73A9AD;
+    background-image: -webkit-linear-gradient(top, #4CACBC, #C4DFAA);
+    background-image: -moz-linear-gradient(top, #4CACBC, #C4DFAA);
+    background-image: -ms-linear-gradient(top, #4CACBC, #C4DFAA);
+    background-image: -o-linear-gradient(top, #4CACBC, #C4DFAA);
+    background-image: linear-gradient(to bottom, #4CACBC, #C4DFAA);
+    text-decoration: none;
+}
+
+.button {
+    padding-bottom: 10rem;
+}
+
+.section-2 {
+    padding-top: 3.5rem;
+}
+
+.aloha {
+    color: #2F8F9D;
+    font-size: xx-large;
+}
+
+.life {
+    color: #000000;
+}
+
+.para {
+    color: #73A9AD;
+    font-size: x-large;
+    padding: 2rem 15rem 5rem 15rem;
+}
+
+.section-3 {
+    background-color: #EAF6F6;
+    color: #000000;
+    padding: 7rem 0rem 7rem 0rem;
+}
+
+.para-text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.small-text {
+    color: grey;
+}
+
+.card {
+    width: 100%;
+}
+
+.p-bt {
+    padding-top: 1.8rem;
+}
+
+.p1-text {
+    padding-bottom: 1.7rem;
+}
+
+.learn:hover {
+    color: black;
+}
+
+#gallery {
+    padding: 3rem 0rem 10rem 0rem;
+}
+
+.gal-head {
+    color: #2F8F9D;
+    font-size: 3rem;
+}
+
+.und-line {
+    border: 6px dotted #A6D1E6;
+    border-style: dotted none none none;
+    color: grey;
+    margin: 0% 30% 3% 30%;
+    width: 40%;
+}
+
+.section-5 {
+    background: url('/images/contact.avif');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wrap {
+    background-color: #375458;
+    margin: 0% 20% 0% 20%;
+    opacity: 0.85;
+    padding: 5%;
+    width: 60%;
+}
+
+.con {
+    display: flex;
+    font-size: 2.5em;
+    justify-content: center;
+}
