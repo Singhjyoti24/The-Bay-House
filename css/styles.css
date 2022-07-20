@@ -25,7 +25,7 @@ main {
 }
 
 .section-1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/The-Bay-House/images/claudio-schwarz-k89cvE4zY2A-unsplash.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/The-Bay-House/images/claudio-schwarz-k89cvE4zY2A-unsplash.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -149,7 +149,7 @@ main {
 }
 
 .section-5 {
-    background: url('/The-Bay-House/images/contact.avif');
+    background: url("/The-Bay-House/images/contact.avif");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
