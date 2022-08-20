@@ -4,7 +4,5 @@ This is basically a landing page for a hotel website through which you can conta
 
 ## 🛠 Skills
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/280px-HTML5_logo_and_wordmark.svg.png)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/200px-CSS3_logo_and_wordmark.svg.png)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/260px-Bootstrap_logo.svg.png)
-![alt text](https://cdn.iconscout.com/icon/free/png-256/javascript-3629449-3031512.png)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiSf_Ho5NkQ5WXlL8KjS45ocopmQkFge5Wnkdbo6htPHRt16s_NtByW7KYqrkXOlUWiMs&usqp=CAU)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/200px-Bootstrap_logo.svg.png)
