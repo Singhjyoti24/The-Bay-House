@@ -6,3 +6,6 @@ This is basically a landing page for a hotel website through which you can conta
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiSf_Ho5NkQ5WXlL8KjS45ocopmQkFge5Wnkdbo6htPHRt16s_NtByW7KYqrkXOlUWiMs&usqp=CAU)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/200px-Bootstrap_logo.svg.png)
+
+## Visit the website here:
+https://dev24il.github.io/The-Bay-House/
