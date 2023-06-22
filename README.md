@@ -7,11 +7,11 @@ This is basically a landing page for a hotel website through which you can conta
 https://dev24il.github.io/The-Bay-House/
 
 
-## A glimpse of webiste:
-![Screenshot (965)](https://github.com/dev24il/Chanel-LuxuryFashion/assets/98025162/f4e1be5f-3ac6-4ea3-b46e-9e59c6dc1b31)
-![Screenshot (966)](https://github.com/dev24il/Chanel-LuxuryFashion/assets/98025162/dc1c09ab-71e5-470e-a44b-65effdfaa9b2)
-![Screenshot (968)](https://github.com/dev24il/Chanel-LuxuryFashion/assets/98025162/f8b1fe6c-a476-4189-9242-1f7034bd21be)
-![Screenshot (969)](https://github.com/dev24il/Chanel-LuxuryFashion/assets/98025162/82ff32b0-154f-4f5b-b57c-a70cd66b707a)
+## A glimpse of website:
+![Screenshot (973)](https://github.com/dev24il/The-Bay-House/assets/98025162/5971499e-a50e-4a3c-97d5-86df117e726e)
+![Screenshot (970)](https://github.com/dev24il/The-Bay-House/assets/98025162/15a6ab04-8ddd-4895-935b-b68335e02619)
+![Screenshot (971)](https://github.com/dev24il/The-Bay-House/assets/98025162/8720ec36-e8cd-446a-9fe0-18f40fee3c7f)
+![Screenshot (972)](https://github.com/dev24il/The-Bay-House/assets/98025162/ff42e2e7-dd1c-4845-b87a-613d9d67c12f)
 
 
 ## Technologies Used
