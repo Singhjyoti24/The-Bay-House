@@ -4,7 +4,7 @@ This is basically a landing page for a hotel website through which you can conta
 
 
 ## Visit the website here:
-https://dev24il.github.io/The-Bay-House/
+https://singhjyoti24.github.io/The-Bay-House/
 
 
 ## A glimpse of website:
